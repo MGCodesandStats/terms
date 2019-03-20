@@ -4,6 +4,8 @@
 [Terms and Conditions](https://mgcodesandstats.github.io/terms/) |
 [E-mail me](mailto:michael@michaeljgrogan.com)
 
+# TERMS AND CONDITIONS
+
 By using this website (michaeljgrogan.com), you hereby agree to the below terms and conditions as set out by me, Michael Grogan, henceforth known as “The Author”. These terms and conditions are subject to alteration at any time. If you do not agree with the below terms and conditions, then please do not use this website, or any other sites or sources that are affiliated with the brand of Michael Grogan (henceforth known as “The Platform”).
 
 ## 1. “AS IS” BASIS
