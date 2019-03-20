@@ -31,4 +31,4 @@ Please note that any information you provide on this website will be used strict
 
 Any information collected is strictly done so for the fulfillment of the intended purpose, and any personal information you provide will not be disclosed to anyone unless required by law.
 
-You have the right to access the information that you have supplied, and can do so by sending an e-mail here. You can update your information at any time if you believe that the information held about you is incorrect.
+You have the right to access the information that you have supplied, and can do so by [sending an e-mail here](mailto:michael@michaeljgrogan.com). You can update your information at any time if you believe that the information held about you is incorrect.
