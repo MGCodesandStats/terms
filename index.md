@@ -6,7 +6,7 @@
 
 # TERMS AND CONDITIONS
 
-By using this website (michaeljgrogan.com), you hereby agree to the below terms and conditions as set out by me, Michael Grogan, henceforth known as “The Author”. These terms and conditions are subject to alteration at any time. If you do not agree with the below terms and conditions, then please do not use this website, or any other sites or sources that are affiliated with the brand of Michael Grogan (henceforth known as “The Platform”).
+By using this website (michael-grogan.com), you hereby agree to the below terms and conditions as set out by me, Michael Grogan, henceforth known as “The Author”. These terms and conditions are subject to alteration at any time. If you do not agree with the below terms and conditions, then please do not use this website, or any other sites or sources that are affiliated with the brand of Michael Grogan (henceforth known as “The Platform”).
 
 ## 1. “AS IS” BASIS
 
@@ -33,4 +33,4 @@ Please note that any information you provide on this website will be used strict
 
 Any information collected is strictly done so for the fulfillment of the intended purpose, and any personal information you provide will not be disclosed to anyone unless required by law.
 
-You have the right to access the information that you have supplied, and can do so by [sending an e-mail here](mailto:michael@michaeljgrogan.com). You can update your information at any time if you believe that the information held about you is incorrect.
+You have the right to access the information that you have supplied, and can do so by [sending an e-mail here](mailto:contact@michaeljgrogan.com). You can update your information at any time if you believe that the information held about you is incorrect.
