@@ -28,7 +28,7 @@ All content on this website (including but not limited to courses, promotions, s
 
 Please note that any information you provide on this website will be used strictly for the intended purpose. These include:
 
-- Processing of personal data which includes your name, email address, or any other personal information you may provide should you choose to make contact with the Author via the email address provided on this website.
+- Processing of personal data which includes your name, email address, and any other personal information you may provide should you choose to make contact with the Author via the email address provided on this website.
 
 - Aggregating statistical data about your use of the website and determining how the content on this website is most relevant to you.
 
