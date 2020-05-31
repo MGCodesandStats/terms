@@ -6,7 +6,7 @@
 
 # TERMS AND CONDITIONS
 
-By using this website (where "website" includes this website michael-grogan.com and any associated sites such as external blogs and social media pages), you hereby agree to the below terms and conditions as set out by me, Michael Grogan, henceforth known as “The Author”. These terms and conditions are subject to alteration at any time. If you do not agree with the below terms and conditions, then please do not use this website.
+By using this website (where "website" includes this website **michael-grogan.com** and any associated sites such as external blogs and social media pages), you hereby agree to the below terms and conditions as set out by me, Michael Grogan, henceforth known as “The Author”. These terms and conditions are subject to alteration at any time. If you do not agree with the below terms and conditions, then please do not use this website.
 
 ## 1. “AS IS” BASIS
 
@@ -28,8 +28,9 @@ All content on this website (including but not limited to courses, promotions, s
 
 Please note that any information you provide on this website will be used strictly for the intended purpose. These include:
 
-a. Processing of personal data which includes your name, email address, or any other personal information you may provide should you choose to make contact with the Author via the email address provided on this website.
-b. Aggregating statistical data about your use of the website and determining how the content on this website is most relevant to you.
+- Processing of personal data which includes your name, email address, or any other personal information you may provide should you choose to make contact with the Author via the email address provided on this website.
+
+- Aggregating statistical data about your use of the website and determining how the content on this website is most relevant to you.
 
 Any personal information you provide will not be disclosed to any third party unless required by law.
 
