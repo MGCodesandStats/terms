@@ -6,7 +6,7 @@
 
 # TERMS AND CONDITIONS
 
-By using this website (where "website" includes this website **michael-grogan.com** and any associated sites such as external blogs and social media pages), you hereby agree to the below terms and conditions as set out by me, Michael Grogan, henceforth known as “The Author”. These terms and conditions are subject to alteration at any time. If you do not agree with the below terms and conditions, then please do not use this website.
+By using this website (where "website" includes this website **michael-grogan.com**, the associated [MGCodesandStats GitHub repository](https://github.com/mgcodesandstats), and any associated sites such as external blogs and social media pages), you hereby agree to the below terms and conditions as set out by me, Michael Grogan, henceforth known as “The Author”. These terms and conditions are subject to alteration at any time. If you do not agree with the below terms and conditions, then please do not use this website.
 
 ## 1. “AS IS” BASIS
 
@@ -14,7 +14,7 @@ Any information offered on this website is on an “as is” basis and without w
 
 ## 2. EXTERNAL WEBSITES
 
-This website will, on occasion, feature links to external websites. The Author is not responsible for the contents of any external website, including that website's privacy policy which is governed under its own terms, and you choose to access these at your own risk. The inclusion of a link to any external website does not imply any endorsement or promotion of any kind.
+This website will, on occasion, feature links to external websites. The Author is not responsible for the contents of any external website, including that website's privacy policy which is governed under its own terms, and you choose to access these at your own risk. The inclusion of a link to any external website does not imply any endorsement or promotion of any kind by either party.
 
 ## 3. COPYRIGHT
 
