@@ -16,15 +16,11 @@ Any information offered on this website is on an “as is” basis and without w
 
 This website will, on occasion, feature links to external websites. The Author is not responsible for the contents of any external website, including that website's privacy policy which is governed under its own terms, and you choose to access these at your own risk. The inclusion of a link to any external website does not imply any endorsement or promotion of any kind by either party.
 
-## 3. COPYRIGHT
-
-Any content that is created by The Author, including but not limited to datasets, code scripts, logos, and other course materials, remain the property of The Author. These materials may be accessed by you for your personal, non-commercial use only. You agree not to redistribute any proprietary information contained on this website for any purpose without firstly obtaining the express written permission of The Author. This restriction does not apply to any information that is already available in the public domain.
-
-## 4. DISCLAIMER OF LIABILITY
+## 3. DISCLAIMER OF LIABILITY
 
 All content on this website (including but not limited to courses, promotions, software illustrations) are for general information purposes only, and in no way represent any form of professional advice. No promise of outcomes are made in any way regarding any of the material provided. You should not rely upon any material in this website as a basis for making any business, legal, financial, or other decisions of a professional nature. Any reliance placed by you on any information contained on this website is strictly at your own risk. Any code illustrated on this website is for educational purposes only. No guarantees are made that any code illustrated is compatible with your system, and execution of the same is strictly at your own risk. The Author disclaims any liabilities resulting from such reliance on any information contained on this website.
 
-## 5. PRIVACY POLICY
+## 4. PRIVACY POLICY
 
 Please note that any information you provide on this website will be used strictly for the intended purpose. These include:
 
